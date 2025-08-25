@@ -24,13 +24,13 @@ This repositry contains my developer profile, portfolio and coding journey
 ---
 
 ## 📂 Projects  
-✅ *Python Projects:* (Already built – uploading soon)  
+✅ *Python Projects:* (Already built – Publish)  
 - Password Generator
 - Calculator
 - To-Do List
 - Notepad with PDF work
 - Coder Card
-- Hospital Management
+- Hospital Management (uploading soon)
 - I will also make projects with Django along with customtkinter...
 
 
