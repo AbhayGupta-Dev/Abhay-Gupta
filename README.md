@@ -1,4 +1,4 @@
-# Abhay-Gupta-Dev
+# Abhay-Gupta
 This repositry contains my developer profile, portfolio and coding journey
 
 # Hi there 👋, I'm Abhay Gupta  
