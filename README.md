@@ -29,9 +29,9 @@ This repositry contains my developer profile, portfolio and coding journey
 - Calculator
 - To-Do List
 - Notepad with PDF work
-- Coder Card
+- Coder Card , and many Mini Project
 - Hospital Management (uploading soon)
-- I will also make projects with Django along with customtkinter...
+- I will also make projects with Django along with customtkinter (Real-World Project)...
 
 
 🌱 *Flutter / MySQL Projects:* Coming soon...  
